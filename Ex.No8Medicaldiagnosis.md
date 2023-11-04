@@ -3,7 +3,7 @@
 ### REGISTER NUMBER : 212221220030
 ### AIM: 
 Write a Prolog program to build a medical Diagnosis Expert System.
-###  Algorithm:
+###  Algorithm: 
 1. Start the program.
 2. Write the rules for each diseases.
 3. If patient have mumps then symptoms are fever and swollen glands.
